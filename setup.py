@@ -6,8 +6,8 @@ with open('README.md', 'r', encoding='utf-8') as f:
    
 
 __version__ = "0.0.1"
-REPO_NAME = "mongodbconnectorpkg"
-PKG_NAME= "databaseautomation"
+REPO_NAME = "firstmlops"
+PKG_NAME= "MangoDB_Connect"
 AUTHOR_USER_NAME = "poonamDS1702"
 AUTHOR_EMAIL = "poonam06.swami04@gmail.com"
 
